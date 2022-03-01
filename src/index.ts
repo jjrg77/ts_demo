@@ -1,5 +1,3 @@
-import { Interface } from "readline";
-
 /* VARIABLES Y CONSTANTES TIPO INFERIDO */
 var color = 'amarillo'; //variable global 
 let numero = 125; //variable de ámbito local 
